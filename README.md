@@ -1,0 +1,2 @@
+# Drader
+AI Paper Trading
