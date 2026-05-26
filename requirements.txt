@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+websockets
+sqlalchemy
+python-dotenv
+kiteconnect
+matplotlib
