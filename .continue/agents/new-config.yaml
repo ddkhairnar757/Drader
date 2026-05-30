@@ -1,0 +1,9 @@
+name: Drader Config
+version: 1.0.0
+schema: v1
+
+models:
+  - name: DeepSeek Chat
+    provider: deepseek
+    model: deepseek-chat
+    apiKey: sk-5818aa53163244cab3d998d534fd3c77
